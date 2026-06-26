@@ -1,0 +1,11 @@
+{
+  "editor.quickSuggestions": { "other": true, "comments": false, "strings": false },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.suggest.showMethods": true,
+  "editor.suggest.showFunctions": true,
+  "editor.parameterHints.enabled": true,
+  "editor.tabCompletion": "on",
+  "typescript.suggest.enabled": true,
+  "javascript.suggest.enabled": true,
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
